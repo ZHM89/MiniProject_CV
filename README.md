@@ -77,7 +77,3 @@ This project focuses on building a deep learning model to classify bone fracture
    pip install tensorflow matplotlib seaborn scikit-learn
    ```
 4. Run all cells in the notebook.
-
-## 📌 Acknowledgements
-
-- Dataset provided by [bmadushanirodrigo on Kaggle](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data)
