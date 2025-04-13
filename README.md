@@ -81,7 +81,3 @@ This project focuses on building a deep learning model to classify bone fracture
 ## 📌 Acknowledgements
 
 - Dataset provided by [bmadushanirodrigo on Kaggle](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data)
-
-## 🧾 License
-
-This project is licensed under the MIT License.
